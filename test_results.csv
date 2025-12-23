@@ -1,0 +1,2 @@
+test_accuracy,test_macro_f1,test_melanoma_recall,test_akiec_recall,test_bcc_recall,test_bkl_recall,test_df_recall,test_mel_recall,test_nv_recall,test_vasc_recall
+0.7643142476697736,0.6532655481269501,0.5748502994011976,0.8076923076923077,0.7183098591549296,0.5389221556886228,0.8,0.5748502994011976,0.8316733067729084,0.8571428571428571
